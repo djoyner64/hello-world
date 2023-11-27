@@ -1,7 +1,12 @@
 eno<!--Doctypehtml-->
 <html>
   <head>
-<h1> darnese </h1>   
+<h1> darnese </h1>  
+
+<h2> Here are some of my previous porjects: </h2>
+<ul>
+<li> <a> src="https://djoyner64.github.io/Unit-6-Project" target="_blank"> Unit 6 jQuery project </a> </li>
+</ul>
   </head>
 </html>
 
